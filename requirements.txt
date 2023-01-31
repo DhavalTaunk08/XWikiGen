@@ -1,0 +1,8 @@
+torch
+pytorch_lightning
+wandb
+rouge
+transformers
+tqdm
+pandas
+numpy
