@@ -1,5 +1,7 @@
 **XWikiGen**
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/xwikigen-cross-lingual-summarization-for/cross-lingual-abstractive-summarization-on-4)](https://paperswithcode.com/sota/cross-lingual-abstractive-summarization-on-4?p=xwikigen-cross-lingual-summarization-for)
+
 This repository contains code related to various experiments, which we performed on our dataset (XWikiRef).
 
 Overall it contains 3 directories:
